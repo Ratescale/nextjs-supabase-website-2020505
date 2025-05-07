@@ -1,1 +1,0 @@
-# nextjs-supabase-website-2020505
